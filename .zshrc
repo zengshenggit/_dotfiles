@@ -123,5 +123,3 @@ alias i3="vim ~/.config/i3/config"
 alias ls="lsd"
 alias ll="ls -la"
 alias lg="lazygit"
-alias rg="ranger"
-
