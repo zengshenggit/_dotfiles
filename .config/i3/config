@@ -152,7 +152,7 @@ bindsym $mod+0 workspace number $ws10
 bindsym $mod+c workspace $ws2, exec chromium --no-startup-id, focus
 
 #go to workspace $ws3 and then exec postman
-bindsym $mod+p workspace $ws3, exec /opt/PostmanCanary/app/PostmanCanary --no-startup-id, focus
+bindsym $mod+p workspace $ws3, exec /opt/Apifox.AppImage --no-startup-id, focus
 
 #go to workspace $ws3 and then exec dbeaver
 bindsym $mod+d workspace $ws4, exec lua ~/.config/i3/scripts/dbeaver.lua --no-startup-id, focus
